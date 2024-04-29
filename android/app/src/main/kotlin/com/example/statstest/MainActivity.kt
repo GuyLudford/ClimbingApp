@@ -1,0 +1,5 @@
+package com.example.statstest
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
